@@ -74,3 +74,8 @@ button {
     display: flex;
     gap: 20px;
 }
+.section-1-header {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+}
