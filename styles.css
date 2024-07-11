@@ -31,10 +31,16 @@ body {
     justify-content: space-around;
     flex-direction: column;
 }
-.hero-content-1,
-.hero-content-2 {
+.hero-content-1{
     display: flex;
     justify-content: space-around;
+    align-items: center;
+}
+.hero-content-2 {
+    display: flex;
+    justify-content: center;
+    margin-top: 0px;
+    gap: 380px;
     align-items: center;
 }
 .links {
@@ -56,4 +62,5 @@ button {
 .image img {
     width: auto;
     height: 300px;
+    margin-top: 60px;
 }
