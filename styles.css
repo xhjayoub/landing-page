@@ -3,7 +3,18 @@
     background-color: #1F2937;
 }
 
-.header-logo, .links {
+.header-logo {
     font-size: 24px;
+    color: #F9FAF8;
+    font-weight: bold;
+}
+
+.hero {
+    color: #E5E7EB;
+    font-size: 18px;
+}
+.hero-main-text {
+    font-size: 48px;
+    font-weight: bolder;
     color: #F9FAF8;
 }
