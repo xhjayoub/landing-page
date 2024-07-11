@@ -73,7 +73,7 @@ button {
 }
 .cards {
     display: flex;
-    gap: 20px;
+    gap: 50px;
 }
 .section-1-header {
     font-size: 36px;
@@ -86,6 +86,8 @@ button {
     align-items: center;
 }
 .img-card {
-    height: 250px;
+    height: 230px;
     width: auto;
+    border: 5px #3882F6 solid;
+    border-radius: 5%;
 }
