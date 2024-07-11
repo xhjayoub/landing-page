@@ -1,0 +1,9 @@
+.hero,
+.footer {
+    background-color: #1F2937;
+}
+
+.header-logo, .links {
+    font-size: 24px;
+    color: #F9FAF8;
+}
