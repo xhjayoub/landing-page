@@ -40,7 +40,10 @@
 }
 button {
     background-color: #3882F6;
-    width: 150px;
-    height: 30px;
+    width: 120px;
+    height: 40px;
     color: #E5E7EB;
+    border-radius: 6%;
+    border: 0;
+    font-weight: bold;
 }
