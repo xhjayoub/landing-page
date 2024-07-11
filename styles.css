@@ -53,3 +53,7 @@ button {
     border: 0;
     font-weight: bold;
 }
+.image img {
+    width: auto;
+    height: 300px;
+}
