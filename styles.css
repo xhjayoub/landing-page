@@ -4,7 +4,8 @@ body {
     justify-content: space-between;
 }
 .hero,
-.footer {
+.footer,
+body {
     background-color: #1F2937;
 }
 
