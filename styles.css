@@ -64,3 +64,13 @@ button {
     height: 300px;
     margin-top: 60px;
 }
+
+.section-1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.cards {
+    display: flex;
+    gap: 20px;
+}
