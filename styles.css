@@ -9,12 +9,38 @@
     font-weight: bold;
 }
 
-.hero {
+.hero{
     color: #E5E7EB;
     font-size: 18px;
+    padding-bottom: 70px;
 }
 .hero-main-text {
     font-size: 48px;
     font-weight: bolder;
     color: #F9FAF8;
+}
+
+.hero {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+.hero-content-1,
+.hero-content-2 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.links {
+    display: flex;
+    gap: 20px;
+}
+.hero-content-sub {
+    width: 320px;
+}
+button {
+    background-color: #3882F6;
+    width: 150px;
+    height: 30px;
+    color: #E5E7EB;
 }
