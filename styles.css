@@ -119,4 +119,17 @@ button {
 }
 .section-3 {
     background-color: white;
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+.box {
+    background-color: #3882F6;
+    padding: 10px;
+    width: 1200px;
+}
+.box button {
+    color: white;
+    border: 2px solid white;
+    border-radius: 5%;
 }
