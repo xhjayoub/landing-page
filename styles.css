@@ -143,3 +143,10 @@ button {
     font-size: 25px;
     font-weight: bold;
 }
+.footer {
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-size: 21px;
+    padding: 8px;
+}
